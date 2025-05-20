@@ -38,7 +38,7 @@ For how to use this info, check out [exiva/Vizio_SmartCast_API](https://github.c
 ## Set 4 - Nav
 
 - I wasn't able to get much about 4.0, 4.1, 4.3, 4.5, 4.15, or 4.16.
-- I have no idea what 4.4 is.
+- I have no idea what 4.4 is.w
 
 - 4.0 - Back
 - 4.1 - Back
